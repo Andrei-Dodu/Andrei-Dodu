@@ -13,7 +13,7 @@ Fixed-fee Solidity and Rust audits. Proof of concept for every High and Critical
 
 ### Tooling
 
-- [Hugin](https://hugin.nu) intercepting proxy, scanner and MITM workbench in Rust. Local first, HTTP/1-2-3, one binary.
+- [Hugin](https://hugin.nu) intercepting proxy, scanner and MITM workbench in Rust. Local first, HTTP/1-2-3, one binary. Public hub: [HuginCyber](https://github.com/HuginCyber).
 
 ### Findings
 
