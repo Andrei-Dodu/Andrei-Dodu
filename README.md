@@ -10,6 +10,7 @@ Fixed-fee Solidity and Rust audits. Proof of concept for every High and Critical
 - What the report looks like: https://dodu.se/audit-report-template
 - Capability statement: https://dodu.se/downloads/dodu-security-capability-statement.pdf
 - Rate card and what drives a quote: https://dodu.se/smart-contract-audit-cost
+- Six bug classes with passing PoCs: https://github.com/Andrei-Dodu/audit-samples
 
 ### Tooling
 
